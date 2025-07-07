@@ -10,19 +10,47 @@ Dataset terdiri dari kolom-kolom berikut:
 
 ### Deskripsi Variabel
 
-  - **Umur**:
-    - Data Range : 20 sampai 50 tahun 
-    - Data Type  : Integer 
-
   - **Jenis Kelamin**:
-    - Categories: laki - laki (0) atau perempuan (1)
-    - Data Type : Binary
-
-  - **Education Level**:
-    - Categorical 1 : Graduate tipe (1), Not Graduate tipe (1)
-    - Data Tyoe     : Categori
-
+    - Categorical : Laki-laki atau perempuan
+    - Data Type   : Binary
+   
+  - **python_exp**:
+     - Categorical : yes atau no
+     - Data Type   : Binary 
+       
   - **Experience Years**:
     -  Data Range  : 0 sampai 3 tahun
     -  Data Type   : Integer
-  -       
+    
+  - **Education Level**:
+    - Categorical 1 : Graduate tipe (1) atau Not Graduate tipe (1)
+    - Data Tyoe     : Categori
+  
+  - **Internship**:
+    - Categorical : yes or no
+    - Data Type   : Binary
+      
+ - **Skil Score** :
+   - Data Range   : 0 sampai 20000
+   - Data Type    : Integer
+  
+- **Sallary 10*E4**:
+  - Data Range    : 0 sampai 500
+  - Data Type     : Integer
+
+- **Offer_History**:
+  - Data Range    : 0 sampai 1
+  - Data Type     : Integer
+ 
+- **location**     :
+  - Categorical   : Alamat
+  - Data Type     : String
+
+- **Recuitmen_Status**  :
+  - Categorical   : Y atau N
+  - Data Type     : String
+
+## Exploratory Data Analysis (EDA)
+
+### Analisi Korelasi
+
