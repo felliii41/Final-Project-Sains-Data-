@@ -1,3 +1,7 @@
+# Dibuat oleh :
+- Fellia Haya Nafiah IF22E 201012
+- Nahda Hadaya Nasywa IF22D 201182
+
 # Hiring Decision Analysis
 
 ## Tujuan Analysis 
