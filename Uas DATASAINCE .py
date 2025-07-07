@@ -1,3 +1,7 @@
+## DI BUAT OLEH
+## Fellia Haya Nafiah IF22E 201012
+## Nahda Hadaya Nasywa IF22D 201182
+
 import pandas as pd
 import numpy as np
 
