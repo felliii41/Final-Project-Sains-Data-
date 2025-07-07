@@ -52,5 +52,12 @@ Dataset terdiri dari kolom-kolom berikut:
 
 ## Exploratory Data Analysis (EDA)
 
-### Analisi Korelasi
+### Analisis Korelasi
+Langkah awal dalam analisi ini adalah melakukan evaluasi korelasi antar fitur terhadap variabel target, Keputasan Perekrutan. Dari sini, kami dapat mengetahui fitur mana saja yang memiliki konntribusi yang signifikan terhadap hasil akhir perekrutan. 
+
+## Predictive Modeling
+### Logistic Regression
+Dalam proyek ini, kami memilih logistic Regression sebagai algoritma utama karena cocok digunakan untuk klasifikasi biner. variabel target, yaitu keputusan perekrutan, memiliki dua label output : label ini dipekerjakan atau tidak di pekerjakan. model ini membantu mematakan hubungan antara fitur-fitu input dan kemungkinan seseorang yang diterima kerja. 
+
+
 
